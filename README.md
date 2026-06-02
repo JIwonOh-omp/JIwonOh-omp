@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile.png" width="150" alt="profile" />
+</p>
+
 <h1 align="center">안녕하세요, 오지원입니다 👋</h1>
 
 <p align="center">
