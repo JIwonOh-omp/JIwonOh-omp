@@ -95,8 +95,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JIwonOh-omp&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIwonOh-omp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JIwonOh-omp&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JIwonOh-omp&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JIwonOh-omp&theme=tokyonight" height="160" />
 </p>
 
 ---
