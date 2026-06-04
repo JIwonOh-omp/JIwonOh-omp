@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C8EBF&center=true&vCenter=true&width=500&lines=From+Chemist+to+AI+Developer;배움을+멈추지+않는+개발자;끊임없이+성장하는+중입니다" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&pause=1000&color=6C8EBF&center=true&vCenter=true&width=500&lines=From+Chemist+to+AI+Developer;%EB%B0%B0%EC%9B%80%EC%9D%84+%EB%A9%88%EC%B6%94%EC%A7%80+%EC%95%8A%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EB%81%8A%EC%9E%84%EC%97%86%EC%9D%B4+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
 </p>
 
 ---
@@ -95,8 +95,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JIwonOh-omp&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIwonOh-omp&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JIwonOh-omp&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIwonOh-omp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="150" />
 </p>
 
 ---
